@@ -1,5 +1,5 @@
 # Cryptography Algarithms
-Those algorithms related to COMPUTER SYSTEMS SECURITY from Taif University.
+Those algorithms related to Computer Systems Security course from Taif University.
 ## Cryptography Algorithms are :
 ### 1. Monoalphabetic Encryption Algorithm.
 ### 2. Monoalphabetic Decryption Algorithm.
